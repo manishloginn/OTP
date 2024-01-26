@@ -30,7 +30,6 @@ function onbackkey (e) {
 
 function onfocus(event) {
     event.target.placeholder = "";
-
 }
 
 function onblur(event) {
